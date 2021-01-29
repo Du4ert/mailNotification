@@ -1,0 +1,1 @@
+Mail notification plugin for OJS 3.1.2
